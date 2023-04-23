@@ -32,12 +32,12 @@ export function Menu() {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="">
+                <Link className="nav-link" to="/tienda">
                    Tienda
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link disabled">
+                <Link className="nav-link" to="/musica">
                     Musica
                 </Link>
               </li>
