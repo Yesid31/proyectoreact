@@ -1,69 +1,74 @@
 export function Member() {
+  let integrantes = [
+    {
+      nombre: "Eduin Caz",
+      rol: "Voz Principal",
+      foto: "https://firebasestorage.googleapis.com/v0/b/musicosygt.appspot.com/o/EduinCaz.jpg?alt=media&token=a0c0ccc1-fb7d-4bcd-be72-e6d4293a3f1b",
+      nacimiento: "Nacio En Culiacán,Sinaloa El 30 De Julio De 1994",
+      id:1
+    },
+    {
+      nombre: "Joaquín Ruiz",
+      rol: "Bajo Electrico",
+      foto: "https://firebasestorage.googleapis.com/v0/b/musicosygt.appspot.com/o/Joaquin-Ruiz.jpg?alt=media&token=ab11ac87-2bc6-4d4d-a11f-a2119266381f",
+      nacimiento: "Nacio En Tijuana,Baja California,Mexico, 15 De Septiembre De 1993",
+      id:2
+    },
+    {
+      nombre: "Christian Téllez",
+      rol: "Bajo",
+      foto: "https://firebasestorage.googleapis.com/v0/b/musicosygt.appspot.com/o/Cristian-Trellez.jpg?alt=media&token=813e3431-823c-4246-9fec-62f71079724f",
+      nacimiento: "10 De Noviembre De 1997 Conocido Como El Comandante ",
+      id:3
+    },
+    {
+      nombre: "Dylan Camacho",
+      rol: "Acordeonista",
+      foto: "https://firebasestorage.googleapis.com/v0/b/musicosygt.appspot.com/o/Dylan-Camacho.jpg?alt=media&token=50b81d5b-a5c4-43f6-abcf-833fdfabb7e4",
+      nacimiento: "Nacio En Tijuana,Baja California,Mexico,El 24 De Abril De 1997 ",
+      id:4
+    },
+    {
+      nombre:"Fito Rubio",
+      rol:"Tambor",
+      foto:"https://firebasestorage.googleapis.com/v0/b/musicosygt.appspot.com/o/Fito-Rubio.jpg?alt=media&token=3d13918a-d9ad-492c-a1d5-ca8552f2e631",
+      nacimiento:"Nacio En Tijuana,Baja California,Mexico El 17 De Diciembre De 1990",
+      id:5
+    },
+    {
+      nombre:"Oscar Valdez",
+      rol:"Acordeón",
+      foto:"https://firebasestorage.googleapis.com/v0/b/musicosygt.appspot.com/o/%C3%93scar_Valdez.png?alt=media&token=1f40ae0a-758b-4418-969a-f7b10fd75faa",
+      nacimiento:"Nacio En Nogales Sonora El 22 De Diciembre De 1990",
+      id:6
+    },
+  ];
   return (
-    <>
-      <h1 className="text-center">INTEGRANTES</h1>
-      <div className="container-fluid">
-        <div className="row">
-          <div className="col-3 col-md-3">
-            <h2>Eduin Caz</h2>
-            <p>
-              Eduin Caz es el vocalista y uno de los principales fundadores del
-              grupo originario de Tijuana, México.Nacido como Eduin Oswaldo
-              Parra Cazares es originario de Culiacán,Sinaloa;nació el 30 de
-              julio de 1994.
-              <img
-                src="https://firebasestorage.googleapis.com/v0/b/musicosygt.appspot.com/o/Eduin.jpg?alt=media&token=5afc5e86-71f0-430d-a9ef-1786aaf33e35"
-                alt="Eduin"
-                className="img-fluid-w100"
-              />
-            </p>
-          </div>
-        
-        <div className="col-12 col-md-3">
-          <h3>Juaquín Ruiz</h3>
-          <p>
-            Joaquín Ruiz es uno de los integrantes de Grupo Firme, junto a Eduin
-            Caz y sus compañeros han logrado ser considerados como uno de los
-            mejores artistas de la actualidad y se han llevado el titulo a "los
-            más taquilleros del mundo entero".
-          </p>
-          <img
-            src="https://firebasestorage.googleapis.com/v0/b/musicosygt.appspot.com/o/Juaquin.jpg?alt=media&token=8b46b3f5-657c-4298-ad86-b72b1fd79616"
-            alt="Juaquin"
-            className="img-fluid-w100"
-          />
-        </div>
+  <>
+     <div className="row row-cols-1 row-cols-md-3 g-3">
+      {
+        integrantes.map(function(integrante){
+          return(
+            <div key={integrante.id}>
+              <div className="col">
+                <div className="card h-100 shadow">
+                 
+                  <h3 className="text-center fw-bold">{integrante.nombre}</h3>
+                  <img src={integrante.foto} alt="foto" className="img-fluid w-100"/>
+                  <h2 className="text-center fw-bold"> Rol: {integrante.rol}</h2>
+                  <h1 className="text-center fw-bold"> {integrante.nacimiento}</h1>
 
-        <div className="col-12 col-md-3">
-          <h3>Christian Téllez</h3>
-          <p>
-            Es el bajista de la banda de regional mexicano, Grupo Firme.
-            Christian creció en un ambiente musical y muy unido, es por ello que
-            a temprana edad empezó a practicar con la guitarra, ya que sus
-            primos tocaban en un grupo norteño.
-          </p>
-          <img
-            src="https://firebasestorage.googleapis.com/v0/b/musicosygt.appspot.com/o/Christian.jpg?alt=media&token=772677e2-cc43-4c60-853f-2ecaef2a35b7"
-            alt="Christian Téllez"
-            className="img-fluid-w100"
-          />
-        </div>
+                </div>
+              </div>
+            </div>
+          )
+        })
+      }
 
-        <div className="col-12 col-md-3">
-          <h3>Dylan Camacho</h3>
-          <p>
-            Es el encargado del acordeón, en la agrupación de regional mexicano,
-            Grupo Firme. Hijo de la unión entre Alberto Camacho y Consuelo
-            Torres. Tiene dos hermanos menores.
-          </p>
-          <img
-            src="https://firebasestorage.googleapis.com/v0/b/musicosygt.appspot.com/o/Dylan.jpg?alt=media&token=5995f35e-e5e0-403e-94ec-98b7c7e39247"
-            alt="Dylan Camacho"
-            className="img-fluid-w100"
-          />
-        </div>
-        </div>
-      </div>
-    </>
+  
+     </div>
+
+
+  </>
   );
 }

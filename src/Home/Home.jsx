@@ -1,5 +1,5 @@
 
-
+import "./Home.css"
 import { History } from "../History/History"
 
 export function Home(){

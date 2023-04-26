@@ -40,7 +40,11 @@ export default function Tienda() {
             />
           </div>
           <div className="carousel-item">
-            <img src="https://firebasestorage.googleapis.com/v0/b/musicosygt.appspot.com/o/Producto3.webp?alt=media&token=c19e1183-0067-4de3-8766-ba771e3e6b7a" className="d-block img-fluid w-100" alt="..." />
+            <img
+              src="https://firebasestorage.googleapis.com/v0/b/musicosygt.appspot.com/o/Producto3.webp?alt=media&token=c19e1183-0067-4de3-8766-ba771e3e6b7a"
+              className="d-block img-fluid w-100"
+              alt="..."
+            />
           </div>
         </div>
         <button
@@ -68,7 +72,48 @@ export default function Tienda() {
           <span className="visually-hidden">Next</span>
         </button>
       </div>
-           <h1 className="text-center"> Nuestros Productos </h1>
+      <h1 className="text-center"> Nuestros Productos </h1>
+    </>
+  );
+
+  let productos = [
+    {
+      foto: "https://firebasestorage.googleapis.com/v0/b/musicosygt.appspot.com/o/Foto1.webp?alt=media&token=df6cc4fb-5f58-4131-a688-0ad35f9768fd",
+      nombre: "Enfiestados Y Amanecidos Tour",
+      precio: "$24.99 USD",
+      descripcion: "Gorra edición especial, gira 2022 ENFIESTADOS Y AMANECIDOS TOUR.",
+    },
+    {
+      foto: "",
+      nombre: "",
+      precio: "",
+      descripcion: "",
+    },
+    {
+      foto: "",
+      nombre: "",
+      precio: "",
+      descripcion: "",
+    },
+    {
+      foto: "",
+      nombre: "",
+      precio: "",
+      descripcion: "",
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+  ];
+
+  return (
+    <>
+      <div className="row row-cols-1 row-cols-md-3 g-3">
+        {productos.map(function (prodcuto) {})}
+      </div>
     </>
   );
 }
