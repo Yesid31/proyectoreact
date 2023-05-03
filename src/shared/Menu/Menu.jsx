@@ -5,8 +5,8 @@ export function Menu() {
     <>
       <nav className="navbar navbar-expand-lg menu navbar-dark">
         <div className="container-fluid">
-          <Link className="navbar-brand" to="/">
-            Grupo Firme
+          <Link className="navbar-brand">
+            <img src="https://firebasestorage.googleapis.com/v0/b/musicosygt.appspot.com/o/Icono.jpg?alt=media&token=cf114520-0080-4995-9492-5cb225d05aed" alt="foto"  className="foto" />
           </Link>
           <button
             className="navbar-toggler"
