@@ -51,7 +51,7 @@ export function Member() {
           return(
             <div key={integrante.id}>
               <div className="col">
-                <div className="card h-100 shadow">
+                <div className="card h-100 shadow bg-warning">
                  
                   <h3 className="text-center fw-bold">{integrante.nombre}</h3>
                   <img src={integrante.foto} alt="foto" className="img-fluid w-100"/>

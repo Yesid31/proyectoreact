@@ -41,6 +41,12 @@ export function Menu() {
                     Musica
                 </Link>
               </li>
+
+              <li className="nav-item">
+                <Link className="nav-link" to="/fans">
+                    Fans
+                </Link>
+              </li>
             </ul>
           </div>
         </div>
