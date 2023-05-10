@@ -46,6 +46,13 @@ export function Menu() {
                 <Link className="nav-link" to="/fans">
                     Fans
                 </Link>
+                
+              </li>
+              <li className="nav-item">
+                <Link className="nav-link" to="/hooks">
+                    Hooks
+                </Link>
+                
               </li>
             </ul>
           </div>
