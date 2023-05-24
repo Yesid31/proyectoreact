@@ -6,6 +6,7 @@ import  Tienda from "../Tienda/Tienda"
 import { Musica } from "../Musica/Musica"
 import { Fans } from "../Fans/Fans"
 import { Carga } from "../Hook/Carga"
+
 export function Rutas (){
     return (
 
