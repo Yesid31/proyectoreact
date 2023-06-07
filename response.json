@@ -1,0 +1,944 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dKdetem2xEmjgvyymzytS",
+            "id": "1dKdetem2xEmjgvyymzytS",
+            "name": "Grupo Firme",
+            "type": "artist",
+            "uri": "spotify:artist:1dKdetem2xEmjgvyymzytS"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+            },
+            "href": "https://api.spotify.com/v1/artists/6JoYL9QYbdgPb6EuE5J2pC",
+            "id": "6JoYL9QYbdgPb6EuE5J2pC",
+            "name": "Gerardo Coronel",
+            "type": "artist",
+            "uri": "spotify:artist:6JoYL9QYbdgPb6EuE5J2pC"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15"
+        },
+        "href": "https://api.spotify.com/v1/albums/6kbhZqFlf80O9LW2EAWz15",
+        "id": "6kbhZqFlf80O9LW2EAWz15",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2736a52b2efd8fa49b74b8d3412",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e026a52b2efd8fa49b74b8d3412",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048516a52b2efd8fa49b74b8d3412",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Qué Onda Perdida",
+        "release_date": "2023-03-30",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:6kbhZqFlf80O9LW2EAWz15"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dKdetem2xEmjgvyymzytS",
+          "id": "1dKdetem2xEmjgvyymzytS",
+          "name": "Grupo Firme",
+          "type": "artist",
+          "uri": "spotify:artist:1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+          },
+          "href": "https://api.spotify.com/v1/artists/6JoYL9QYbdgPb6EuE5J2pC",
+          "id": "6JoYL9QYbdgPb6EuE5J2pC",
+          "name": "Gerardo Coronel",
+          "type": "artist",
+          "uri": "spotify:artist:6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 239637,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QZDQH2362804"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3upTB6o5YgeALHgDp3mzte",
+      "id": "3upTB6o5YgeALHgDp3mzte",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Qué Onda Perdida",
+      "popularity": 84,
+      "preview_url": "https://p.scdn.co/mp3-preview/72b8c54880567b8edd267050174ce4ad0c17d04d?cid=5938fd7d0e5f4d889ba4db749d5780ad",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3upTB6o5YgeALHgDp3mzte"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dKdetem2xEmjgvyymzytS",
+            "id": "1dKdetem2xEmjgvyymzytS",
+            "name": "Grupo Firme",
+            "type": "artist",
+            "uri": "spotify:artist:1dKdetem2xEmjgvyymzytS"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+            },
+            "href": "https://api.spotify.com/v1/artists/7Gi6gjaWy3DxyilpF1a8Is",
+            "id": "7Gi6gjaWy3DxyilpF1a8Is",
+            "name": "Junior H",
+            "type": "artist",
+            "uri": "spotify:artist:7Gi6gjaWy3DxyilpF1a8Is"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7idHMYzKwME3BmhHiusrJ3"
+        },
+        "href": "https://api.spotify.com/v1/albums/7idHMYzKwME3BmhHiusrJ3",
+        "id": "7idHMYzKwME3BmhHiusrJ3",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c10ab65c4888c42d5d5114be",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c10ab65c4888c42d5d5114be",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c10ab65c4888c42d5d5114be",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Tronando Ligas",
+        "release_date": "2023-03-21",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:7idHMYzKwME3BmhHiusrJ3"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dKdetem2xEmjgvyymzytS",
+          "id": "1dKdetem2xEmjgvyymzytS",
+          "name": "Grupo Firme",
+          "type": "artist",
+          "uri": "spotify:artist:1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          },
+          "href": "https://api.spotify.com/v1/artists/7Gi6gjaWy3DxyilpF1a8Is",
+          "id": "7Gi6gjaWy3DxyilpF1a8Is",
+          "name": "Junior H",
+          "type": "artist",
+          "uri": "spotify:artist:7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 155818,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QZDQH2359581"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Xfu24Hd3ufGrpGyZFy07M"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6Xfu24Hd3ufGrpGyZFy07M",
+      "id": "6Xfu24Hd3ufGrpGyZFy07M",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Tronando Ligas",
+      "popularity": 81,
+      "preview_url": "https://p.scdn.co/mp3-preview/a6ff8271977831bc9d958dab073d60610a577f14?cid=5938fd7d0e5f4d889ba4db749d5780ad",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6Xfu24Hd3ufGrpGyZFy07M"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dKdetem2xEmjgvyymzytS",
+            "id": "1dKdetem2xEmjgvyymzytS",
+            "name": "Grupo Firme",
+            "type": "artist",
+            "uri": "spotify:artist:1dKdetem2xEmjgvyymzytS"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+            },
+            "href": "https://api.spotify.com/v1/artists/4IEP61D1hdCPQVzAYzP9VC",
+            "id": "4IEP61D1hdCPQVzAYzP9VC",
+            "name": "Luis Mexia",
+            "type": "artist",
+            "uri": "spotify:artist:4IEP61D1hdCPQVzAYzP9VC"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
+        },
+        "href": "https://api.spotify.com/v1/albums/2ZaaYylAxHJ6sPJe9mHwHb",
+        "id": "2ZaaYylAxHJ6sPJe9mHwHb",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273019e6f8aab9e166b21e854dc",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02019e6f8aab9e166b21e854dc",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851019e6f8aab9e166b21e854dc",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Calidad",
+        "release_date": "2022-07-12",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:2ZaaYylAxHJ6sPJe9mHwHb"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dKdetem2xEmjgvyymzytS",
+          "id": "1dKdetem2xEmjgvyymzytS",
+          "name": "Grupo Firme",
+          "type": "artist",
+          "uri": "spotify:artist:1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+          },
+          "href": "https://api.spotify.com/v1/artists/4IEP61D1hdCPQVzAYzP9VC",
+          "id": "4IEP61D1hdCPQVzAYzP9VC",
+          "name": "Luis Mexia",
+          "type": "artist",
+          "uri": "spotify:artist:4IEP61D1hdCPQVzAYzP9VC"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 170053,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QZDQH2257609"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0uBcoM4zxRXk7kmsmxoiFS",
+      "id": "0uBcoM4zxRXk7kmsmxoiFS",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Calidad",
+      "popularity": 81,
+      "preview_url": "https://p.scdn.co/mp3-preview/460c5bbeb2823ba494c19c040b279bdd13773616?cid=5938fd7d0e5f4d889ba4db749d5780ad",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:0uBcoM4zxRXk7kmsmxoiFS"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dKdetem2xEmjgvyymzytS",
+            "id": "1dKdetem2xEmjgvyymzytS",
+            "name": "Grupo Firme",
+            "type": "artist",
+            "uri": "spotify:artist:1dKdetem2xEmjgvyymzytS"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+            },
+            "href": "https://api.spotify.com/v1/artists/66ihevNkSYNzRAl44dx6jJ",
+            "id": "66ihevNkSYNzRAl44dx6jJ",
+            "name": "Carin Leon",
+            "type": "artist",
+            "uri": "spotify:artist:66ihevNkSYNzRAl44dx6jJ"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0FbcuKOFPTtZgqAucm31iG"
+        },
+        "href": "https://api.spotify.com/v1/albums/0FbcuKOFPTtZgqAucm31iG",
+        "id": "0FbcuKOFPTtZgqAucm31iG",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273071ecdd58575856ba8261811",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02071ecdd58575856ba8261811",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851071ecdd58575856ba8261811",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "El Tóxico",
+        "release_date": "2020-10-27",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0FbcuKOFPTtZgqAucm31iG"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dKdetem2xEmjgvyymzytS",
+          "id": "1dKdetem2xEmjgvyymzytS",
+          "name": "Grupo Firme",
+          "type": "artist",
+          "uri": "spotify:artist:1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/66ihevNkSYNzRAl44dx6jJ",
+          "id": "66ihevNkSYNzRAl44dx6jJ",
+          "name": "Carin Leon",
+          "type": "artist",
+          "uri": "spotify:artist:66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 179745,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QZDQH1906375"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7E9GeFGfjXw9LAI4ay6rsw",
+      "id": "7E9GeFGfjXw9LAI4ay6rsw",
+      "is_local": false,
+      "is_playable": true,
+      "name": "El Tóxico",
+      "popularity": 79,
+      "preview_url": "https://p.scdn.co/mp3-preview/b788e1ce56b700a4a710a8926e42523ee1783cd4?cid=5938fd7d0e5f4d889ba4db749d5780ad",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:7E9GeFGfjXw9LAI4ay6rsw"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dKdetem2xEmjgvyymzytS",
+            "id": "1dKdetem2xEmjgvyymzytS",
+            "name": "Grupo Firme",
+            "type": "artist",
+            "uri": "spotify:artist:1dKdetem2xEmjgvyymzytS"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
+        },
+        "href": "https://api.spotify.com/v1/albums/1Aiov6IELpNAdCHMzbz6Ml",
+        "id": "1Aiov6IELpNAdCHMzbz6Ml",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2734110d023050ec5bfafb2720d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e024110d023050ec5bfafb2720d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048514110d023050ec5bfafb2720d",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Ya Supérame (En Vivo)",
+        "release_date": "2021-08-13",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:1Aiov6IELpNAdCHMzbz6Ml"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dKdetem2xEmjgvyymzytS",
+          "id": "1dKdetem2xEmjgvyymzytS",
+          "name": "Grupo Firme",
+          "type": "artist",
+          "uri": "spotify:artist:1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 189050,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QZDQH2148787"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6HIIuuUIEzH1meVdGbMXyf",
+      "id": "6HIIuuUIEzH1meVdGbMXyf",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Ya Supérame (En Vivo)",
+      "popularity": 78,
+      "preview_url": "https://p.scdn.co/mp3-preview/7592490c229af2441c564d2c49eef8632919c2ed?cid=5938fd7d0e5f4d889ba4db749d5780ad",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6HIIuuUIEzH1meVdGbMXyf"
+    },
+    {
+      "album": {
+        "album_type": "compilation",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+            },
+            "href": "https://api.spotify.com/v1/artists/3hTffafUYLLgO4yuPAxb5U",
+            "id": "3hTffafUYLLgO4yuPAxb5U",
+            "name": "Lenin Ramírez",
+            "type": "artist",
+            "uri": "spotify:artist:3hTffafUYLLgO4yuPAxb5U"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
+        },
+        "href": "https://api.spotify.com/v1/albums/22Ovk2DIKkjtoEDWZ6AaTs",
+        "id": "22Ovk2DIKkjtoEDWZ6AaTs",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273d6e7fc2f5bc74e44c34f43be",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02d6e7fc2f5bc74e44c34f43be",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851d6e7fc2f5bc74e44c34f43be",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "En Vivo Desde Mi Ranchito",
+        "release_date": "2020-05-01",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:22Ovk2DIKkjtoEDWZ6AaTs"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hTffafUYLLgO4yuPAxb5U",
+          "id": "3hTffafUYLLgO4yuPAxb5U",
+          "name": "Lenin Ramírez",
+          "type": "artist",
+          "uri": "spotify:artist:3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dKdetem2xEmjgvyymzytS",
+          "id": "1dKdetem2xEmjgvyymzytS",
+          "name": "Grupo Firme",
+          "type": "artist",
+          "uri": "spotify:artist:1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 240456,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "USE7D1900262"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4dKY6JFNvj2yWzENIL1P6s"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4dKY6JFNvj2yWzENIL1P6s",
+      "id": "4dKY6JFNvj2yWzENIL1P6s",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
+      "popularity": 60,
+      "preview_url": "https://p.scdn.co/mp3-preview/a0fc9d5079639940f55f283e65b8267e745e7120?cid=5938fd7d0e5f4d889ba4db749d5780ad",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4dKY6JFNvj2yWzENIL1P6s"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dKdetem2xEmjgvyymzytS",
+            "id": "1dKdetem2xEmjgvyymzytS",
+            "name": "Grupo Firme",
+            "type": "artist",
+            "uri": "spotify:artist:1dKdetem2xEmjgvyymzytS"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+            },
+            "href": "https://api.spotify.com/v1/artists/2Dlvgi70UoJJicfKgoW5Vo",
+            "id": "2Dlvgi70UoJJicfKgoW5Vo",
+            "name": "Grupo Recluta",
+            "type": "artist",
+            "uri": "spotify:artist:2Dlvgi70UoJJicfKgoW5Vo"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7mJxDGu1Ch9awEssKwiqg3"
+        },
+        "href": "https://api.spotify.com/v1/albums/7mJxDGu1Ch9awEssKwiqg3",
+        "id": "7mJxDGu1Ch9awEssKwiqg3",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ea5b24596f9e704262cf59cb",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ea5b24596f9e704262cf59cb",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ea5b24596f9e704262cf59cb",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Se Fue La Pantera (En Vivo)",
+        "release_date": "2021-08-12",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:7mJxDGu1Ch9awEssKwiqg3"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dKdetem2xEmjgvyymzytS",
+          "id": "1dKdetem2xEmjgvyymzytS",
+          "name": "Grupo Firme",
+          "type": "artist",
+          "uri": "spotify:artist:1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Dlvgi70UoJJicfKgoW5Vo",
+          "id": "2Dlvgi70UoJJicfKgoW5Vo",
+          "name": "Grupo Recluta",
+          "type": "artist",
+          "uri": "spotify:artist:2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 202021,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QZDQH2148657"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Yard5LK4aXEn0kBKtHSob"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6Yard5LK4aXEn0kBKtHSob",
+      "id": "6Yard5LK4aXEn0kBKtHSob",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Se Fue La Pantera (En Vivo)",
+      "popularity": 77,
+      "preview_url": "https://p.scdn.co/mp3-preview/3d04b02b2ad3b0345b6b3640de4659b9134c11a8?cid=5938fd7d0e5f4d889ba4db749d5780ad",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:6Yard5LK4aXEn0kBKtHSob"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dKdetem2xEmjgvyymzytS",
+            "id": "1dKdetem2xEmjgvyymzytS",
+            "name": "Grupo Firme",
+            "type": "artist",
+            "uri": "spotify:artist:1dKdetem2xEmjgvyymzytS"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+            },
+            "href": "https://api.spotify.com/v1/artists/3hTffafUYLLgO4yuPAxb5U",
+            "id": "3hTffafUYLLgO4yuPAxb5U",
+            "name": "Lenin Ramírez",
+            "type": "artist",
+            "uri": "spotify:artist:3hTffafUYLLgO4yuPAxb5U"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp"
+        },
+        "href": "https://api.spotify.com/v1/albums/754Bhr4Ck2WcFAvHWlykmp",
+        "id": "754Bhr4Ck2WcFAvHWlykmp",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27349bbda4b70e90a18c1f51bb5",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0249bbda4b70e90a18c1f51bb5",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485149bbda4b70e90a18c1f51bb5",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "En Tu Perra Vida",
+        "release_date": "2021-05-12",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:754Bhr4Ck2WcFAvHWlykmp"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dKdetem2xEmjgvyymzytS",
+          "id": "1dKdetem2xEmjgvyymzytS",
+          "name": "Grupo Firme",
+          "type": "artist",
+          "uri": "spotify:artist:1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+          },
+          "href": "https://api.spotify.com/v1/artists/3hTffafUYLLgO4yuPAxb5U",
+          "id": "3hTffafUYLLgO4yuPAxb5U",
+          "name": "Lenin Ramírez",
+          "type": "artist",
+          "uri": "spotify:artist:3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 238677,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QZDQH2143285"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0ldT3gl7aGNzrJyd4b1CA4",
+      "id": "0ldT3gl7aGNzrJyd4b1CA4",
+      "is_local": false,
+      "is_playable": true,
+      "name": "En Tu Perra Vida",
+      "popularity": 76,
+      "preview_url": "https://p.scdn.co/mp3-preview/2dec971e44444b996a8a4803c3ebfb65fd958bad?cid=5938fd7d0e5f4d889ba4db749d5780ad",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:0ldT3gl7aGNzrJyd4b1CA4"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dKdetem2xEmjgvyymzytS",
+            "id": "1dKdetem2xEmjgvyymzytS",
+            "name": "Grupo Firme",
+            "type": "artist",
+            "uri": "spotify:artist:1dKdetem2xEmjgvyymzytS"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+            },
+            "href": "https://api.spotify.com/v1/artists/0pePYDrJGk8gqMRbXrLJC8",
+            "id": "0pePYDrJGk8gqMRbXrLJC8",
+            "name": "Luis R Conriquez",
+            "type": "artist",
+            "uri": "spotify:artist:0pePYDrJGk8gqMRbXrLJC8"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/18sg8sJIP1DSQweKCNORqW"
+        },
+        "href": "https://api.spotify.com/v1/albums/18sg8sJIP1DSQweKCNORqW",
+        "id": "18sg8sJIP1DSQweKCNORqW",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ed326a0db64939b9d3740652",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ed326a0db64939b9d3740652",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ed326a0db64939b9d3740652",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Un Amor Como Este",
+        "release_date": "2023-02-28",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:18sg8sJIP1DSQweKCNORqW"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dKdetem2xEmjgvyymzytS",
+          "id": "1dKdetem2xEmjgvyymzytS",
+          "name": "Grupo Firme",
+          "type": "artist",
+          "uri": "spotify:artist:1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          },
+          "href": "https://api.spotify.com/v1/artists/0pePYDrJGk8gqMRbXrLJC8",
+          "id": "0pePYDrJGk8gqMRbXrLJC8",
+          "name": "Luis R Conriquez",
+          "type": "artist",
+          "uri": "spotify:artist:0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 185770,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QZDQH2357581"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5xdUo9vjyv5RRR48QYiv1Q"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5xdUo9vjyv5RRR48QYiv1Q",
+      "id": "5xdUo9vjyv5RRR48QYiv1Q",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Un Amor Como Este",
+      "popularity": 74,
+      "preview_url": "https://p.scdn.co/mp3-preview/f1da6e689d61ffd6a382dd66a90adf5869946264?cid=5938fd7d0e5f4d889ba4db749d5780ad",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5xdUo9vjyv5RRR48QYiv1Q"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+            },
+            "href": "https://api.spotify.com/v1/artists/1dKdetem2xEmjgvyymzytS",
+            "id": "1dKdetem2xEmjgvyymzytS",
+            "name": "Grupo Firme",
+            "type": "artist",
+            "uri": "spotify:artist:1dKdetem2xEmjgvyymzytS"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+            },
+            "href": "https://api.spotify.com/v1/artists/44mEtidu0VdRkIqO4IbkNa",
+            "id": "44mEtidu0VdRkIqO4IbkNa",
+            "name": "Marca MP",
+            "type": "artist",
+            "uri": "spotify:artist:44mEtidu0VdRkIqO4IbkNa"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI"
+        },
+        "href": "https://api.spotify.com/v1/albums/6JB7kAukHIaovbGdgkvCfI",
+        "id": "6JB7kAukHIaovbGdgkvCfI",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731d3e76c4193326827077d3af",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021d3e76c4193326827077d3af",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511d3e76c4193326827077d3af",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "El Güero (Feat. Marca MP)",
+        "release_date": "2019-11-29",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:6JB7kAukHIaovbGdgkvCfI"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dKdetem2xEmjgvyymzytS",
+          "id": "1dKdetem2xEmjgvyymzytS",
+          "name": "Grupo Firme",
+          "type": "artist",
+          "uri": "spotify:artist:1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          },
+          "href": "https://api.spotify.com/v1/artists/44mEtidu0VdRkIqO4IbkNa",
+          "id": "44mEtidu0VdRkIqO4IbkNa",
+          "name": "Marca MP",
+          "type": "artist",
+          "uri": "spotify:artist:44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 213254,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QZDQH1808878"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2MeEuwplwbbjZ7hxRI6viw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2MeEuwplwbbjZ7hxRI6viw",
+      "id": "2MeEuwplwbbjZ7hxRI6viw",
+      "is_local": false,
+      "is_playable": true,
+      "name": "El Güero (Feat. Marca MP)",
+      "popularity": 73,
+      "preview_url": "https://p.scdn.co/mp3-preview/b58735cf729e7bbcdb07d6bb2edd665da79b838e?cid=5938fd7d0e5f4d889ba4db749d5780ad",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2MeEuwplwbbjZ7hxRI6viw"
+    }
+  ]
+}
